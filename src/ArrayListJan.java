@@ -11,7 +11,10 @@ public class ArrayListJan {
 		case "Hello":{
 			System.out.println("JHelloo 2024!");
 		}
-		}
+
+				if(Key.contains(""){
+				System.out.println("JHelloo 2024!");	
+				}
 	}
 
 }
