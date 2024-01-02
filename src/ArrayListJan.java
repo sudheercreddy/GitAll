@@ -29,5 +29,12 @@ public class ArrayListJan {
 		}
 
 		System.out.println("Happy Learning GIT MERGE EG");
+		System.out.println("Happy Learning GIT MERGE EG");
+		System.out.println("Happy Learning GIT MERGE EG");
+		System.out.println("Happy Learning GIT MERGE EG");
+		System.out.println("Happy Learning GIT MERGE EG");
+		System.out.println("Happy Learning GIT MERGE EG");
+		System.out.println("Happy Learning GIT MERGE EG");
+		
 	}
 }
