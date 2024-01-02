@@ -6,15 +6,16 @@ public class ArrayListJan {
 		System.out.println("Hello world");
 		System.out.println("Adding from  HUB");
 		System.out.println("Adding from  HUB");
-		String Key= "Hello";
-		switch(Key) {
-		case "Hello":{
+		String Key = "Hello";
+		switch (Key) {
+		case "Hello": {
 			System.out.println("JHelloo 2024!");
 		}
 
-				if(Key.contains(""){
-				System.out.println("JHelloo 2024!");	
-				}
-	}
+		}
+		if (Key.contains("Hello")) {
+			System.out.println("JHelloo 2024!");
+		}
 
+	}
 }
