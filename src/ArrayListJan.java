@@ -5,7 +5,7 @@ public class ArrayListJan {
 
 		
 System.out.println("Hello world");
-
+System.out.println("Adding from  HUB");
 	}
 
 }
