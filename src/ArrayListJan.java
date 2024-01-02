@@ -16,12 +16,18 @@ public class ArrayListJan {
 		if (Key.contains("Hello")) {
 			System.out.println("JHelloo 2024!");
 		}
+
 		switch (Key) {
 		case "Hello": {
 			System.out.println("JHelloo 2024!");
 		}
 
 		}
+
+				if (Key.contains("Hello")) {
+			System.out.println("JHelloo 2024!");
+		}
+
 
 	}
 }
