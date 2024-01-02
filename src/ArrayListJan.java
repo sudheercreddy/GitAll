@@ -28,6 +28,6 @@ public class ArrayListJan {
 			System.out.println("JHelloo 2024!");
 		}
 
-
+		System.out.println("Happy Learning GIT MERGE EG");
 	}
 }
