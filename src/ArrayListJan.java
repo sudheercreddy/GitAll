@@ -2,7 +2,7 @@
 public class ArrayListJan {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hello world! its 2024! Wakeup! and get ready for the sameShit!!");
 
 	}
 
