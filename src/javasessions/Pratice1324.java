@@ -1,3 +1,4 @@
+package javasessions;
 
 public class Pratice1324 {
 
