@@ -17,11 +17,13 @@ public class ArrayListPRa {
 		
 	}
 	public static void main(String[] args) {
+
 		ArrayListPRa ap = new ArrayListPRa();
 		ArrayList<String> myList= ap.getDevices();
 		System.out.println(myList.size());
 		myList.add("sudheer");
 		System.out.println(myList.size());
+
 
 	}
 }
