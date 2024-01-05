@@ -33,7 +33,7 @@ public class Pratice1324 {
 		System.out.println(pc1.name+ "-"+pc2.name + "-"  +pc3.name +"-"+pc4.name+"-"+pc5.name  );
 		pc5=pc1;
 		System.out.println(pc1.name+ "-"+pc2.name + "-"  +pc3.name +"-"+pc4.name+"-"+pc5.name  );
-		
+		//added comments
 	}
 
 }

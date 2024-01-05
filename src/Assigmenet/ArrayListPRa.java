@@ -1,5 +1,6 @@
 package Assigmenet;
 
+
 import java.util.ArrayList;
 
 public class ArrayListPRa {
@@ -21,6 +22,6 @@ public class ArrayListPRa {
 		System.out.println(myList.size());
 		myList.add("sudheer");
 		System.out.println(myList.size());
-	}
 
+	}
 }
