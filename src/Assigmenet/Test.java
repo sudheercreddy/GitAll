@@ -33,7 +33,7 @@ public class Test {
 		int sumof= t1.sum(5, 88);
 		System.out.println(sumof);
 		
-		ArrayList<Object>eee= t1.sumofArray();
+		ArrayList<Object>eee= Test.sumofArray();
 		System.out.println(eee);
 		ArrayList<Object> eee2 = new ArrayList<Object>();
 		eee2.add("First");
